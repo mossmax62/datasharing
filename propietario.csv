@@ -1,0 +1,13 @@
+id,propietario,rutpropietario,tiposociedad_id,presidentedirectorio_id,representantelegal_id,utilidades,infoutilidades,fuenteutilidades_id,sociedadcontroladora_id,pcentsociedadcontroladora,otrasociedada_id,pcentsociedada,otrasociedadb_id,pcentsociedadb,otrasociedadc_id,pcentsociedadc,otrasociedadd_id,pcentsociedadd,otrasociedade_id,pcentsociedade,fuentepropietario_id
+1,"Canal 13 S.A.",NULL,NULL,1,NULL,7192000,"Utilidades según Memoria Anual 2013",NULL,2,"99,999999",3,0,4,"0,0000005",NULL,,NULL,,NULL,,NULL
+2,"Comercial The Clinic S.A.",NULL,2,NULL,3,NULL,,NULL,NULL,,NULL,0,NULL,,NULL,,NULL,,NULL,,NULL
+5,"El Mercurio S.A.P.",90.193.000-7,2,13,NULL,NULL,,NULL,7,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
+6,"El Mercurio de Valparaíso S.A.P.",96.705.640-5,2,NULL,NULL,NULL,,NULL,7,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
+7,"Empresa Periodística El Norte S.A.",84.295.700-1,2,NULL,10,NULL,,NULL,8,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
+8,"Asesorías e Inversiones y Comunidades Ciudadanas S. A.",76.652.970-4,2,18,18,NULL,,NULL,NULL,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
+9,"Gestión Regional de Medios S.A.",76.047.103-8,2,NULL,NULL,NULL,,NULL,7,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
+10,"Antonio Puga y Cía Ltda.",80.764.900-0,4,NULL,NULL,NULL,,NULL,NULL,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
+11,"Sociedad Periodística Araucanía",87.778.800-8,2,NULL,NULL,NULL,,NULL,7,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
+12,Diariosenred.com,,NULL,NULL,NULL,NULL,,NULL,NULL,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
+13,"Sociedad Inet Televisión Digital Limitada",76.020.026-3,4,NULL,NULL,NULL,,NULL,NULL,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
+14,"Broadcasting & Telecomunicaciones Limitada",77.357.500-2,4,NULL,NULL,NULL,,NULL,NULL,,NULL,,NULL,,NULL,,NULL,,NULL,,NULL
